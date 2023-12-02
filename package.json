@@ -1,0 +1,23 @@
+{
+  "name": "com.jy-custom.soundmanager",
+  "version": "1.2.3",
+  "displayName": "SoundManager",
+  "description": "This is an example package",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "jy",
+    "email": "dosss2726@gmail,com",
+    "url": "https://www.unity3d.com"
+  }
+}
